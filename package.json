@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/lucky-leaf/node-blog#readme",
   "dependencies": {
+    "ejs": "^2.5.7",
     "express": "^4.16.2"
   }
 }
