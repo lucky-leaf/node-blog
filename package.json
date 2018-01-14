@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/lucky-leaf/node-blog/issues"
   },
-  "homepage": "https://github.com/lucky-leaf/node-blog#readme"
+  "homepage": "https://github.com/lucky-leaf/node-blog#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
